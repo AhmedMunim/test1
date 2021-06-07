@@ -1,0 +1,9 @@
+#EXTM3U url-tvg=""
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="71 Tv HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",71 Tv HD
+http://univisioniptv.ddns.net:25461/live/munim6389/96966839/700.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="71 Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",71 Tv
+http://univisioniptv.ddns.net:25461/live/munim6389/96966839/86.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Asian Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="Bangla",Asian Tv
+http://univisioniptv.ddns.net:25461/live/munim6389/96966839/91.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="ATN Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/120px-ATN_Bangla.svg.png" group-title="Bangla",ATN Bangla
+http://univisioniptv.ddns.net:25461/live/munim6389/96966839/204.m3u8
