@@ -1,9 +1,5 @@
 #EXTM3U url-tvg=""
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="71 Tv HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",71 Tv HD
-http://univisioniptv.ddns.net:25461/live/munim6389/96966839/700.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="71 Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",71 Tv
-http://univisioniptv.ddns.net:25461/live/munim6389/96966839/86.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Asian Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="Bangla",Asian Tv
-http://univisioniptv.ddns.net:25461/live/munim6389/96966839/91.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="ATN Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/120px-ATN_Bangla.svg.png" group-title="Bangla",ATN Bangla
-http://univisioniptv.ddns.net:25461/live/munim6389/96966839/204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S06E01 Those Kind of Things" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" group-title="Season 06",S06E01 Those Kind of Things
+http://172.16.50.12/SAM-FTP-1/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Dexter%20%28TV%20Series%202006%E2%80%932021%29%201080p/Season%2006/Dexter%20S06E01%20Those%20Kinds%20of%20Things%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%205.1%20ESub-Tigole.mkv
+#EXTINF:-1 tvg-id="" tvg-name="S06E02 Once Upon a time" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" group-title="Season 06",S06E02 Once Upon a time
+http://172.16.50.12/SAM-FTP-1/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Dexter%20%28TV%20Series%202006%E2%80%932021%29%201080p/Season%2006/Dexter%20S06E02%20Once%20Upon%20a%20Time%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%205.1%20ESub-Tigole.mkv
